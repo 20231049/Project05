@@ -5,3 +5,4 @@ Project 05version1 completed
 2nd Team Member: <김경현>
 2nd Team Member: <20251033>
 Project 05version2 completed
+3rd Team Member: <채지호>
